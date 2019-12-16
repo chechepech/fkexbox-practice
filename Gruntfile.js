@@ -8,7 +8,7 @@ module.exports = function (grunt) {
             dev: {
                 
                 files: {
-                    'app/css/app.css': 'app/scss/app.scss'
+                    'app/css/flexbox.css': 'app/scss/flexbox.scss'
                 }
             }
         },
